@@ -77,7 +77,7 @@ exports.listen = function listen (client)
          client.user.setPresence({
             "activity": {
                "name": "in Scripture Alone",
-               "type": "Translating"
+               "type": "PLAYING"
             },
             "status": "online"
          });
